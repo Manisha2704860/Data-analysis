@@ -1,20 +1,20 @@
 # Data-analysis
 
-# What it's built:
+# What it built ?
 
 A sales data analysis tool that:
 
 1. Generates a dummy sales dataset (Code 1).
 2. Loads the sales data from a CSV file, analyzes it, and plots insights (Code 2).
 
-# Why it's built:
+# Why it built ?
 
 The tool is built to:
 
 1. Provide a sample sales dataset for testing or demonstration purposes.
 2. Analyze sales data and gain insights into revenue by product and over time.
 
-# How it works:
+# How it works ?
 
 Here's a high-level overview:
 
